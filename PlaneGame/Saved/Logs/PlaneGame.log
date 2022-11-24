@@ -1139,3 +1139,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.24-04.38.51:049][238]LogFileHelpers: No new changes to save!
 [2022.11.24-04.38.51:063][238]AssetCheck: New page: Asset Save: MainLevel
 [2022.11.24-04.38.51:063][238]LogContentValidation: Display: Validating World /Game/Plane/Maps/MainLevel.MainLevel
+[2022.11.24-04.43.54:845][724]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.24-04.43.57:175][821]LogSlate: Window 'Project Settings' being destroyed
