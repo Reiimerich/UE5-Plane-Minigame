@@ -1141,3 +1141,229 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.24-04.38.51:063][238]LogContentValidation: Display: Validating World /Game/Plane/Maps/MainLevel.MainLevel
 [2022.11.24-04.43.54:845][724]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
 [2022.11.24-04.43.57:175][821]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.24-04.48.47:283][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.11.24-04.48.47:284][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Plane/Maps/MainLevel' took 0.067
+[2022.11.24-04.48.47:285][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Plane/Models/Ring_Torus] ([1] browsable assets)...
+[2022.11.24-04.48.47:311][319]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Plane/Models/Ring_Torus.Ring_Torus]
+[2022.11.24-04.48.47:311][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Plane/Models/Ring_Torus]
+[2022.11.24-04.48.47:311][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Models/Ring_Torus" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Autosaves/Game/Plane/Models/Ring_Torus_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.11.24-04.48.47:316][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Plane/Models/Ring_Torus_Auto1
+[2022.11.24-04.48.47:316][319]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Ring_Torus_Auto1CD9CA2AE4B600D976FA158A2CBCD2DA2.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Autosaves/Game/Plane/Models/Ring_Torus_Auto1.uasset'
+[2022.11.24-04.48.47:317][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Plane/Models/Plane_Prop] ([1] browsable assets)...
+[2022.11.24-04.48.47:326][319]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Plane/Models/Plane_Prop.Plane_Prop]
+[2022.11.24-04.48.47:326][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Plane/Models/Plane_Prop]
+[2022.11.24-04.48.47:326][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Models/Plane_Prop" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Autosaves/Game/Plane/Models/Plane_Prop_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.11.24-04.48.47:329][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Plane/Models/Plane_Prop_Auto1
+[2022.11.24-04.48.47:329][319]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Plane_Prop_Auto1877858A7444539AD8A5764BBAED39CC4.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Autosaves/Game/Plane/Models/Plane_Prop_Auto1.uasset'
+[2022.11.24-04.48.47:330][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Plane/Models/Plane_Base] ([1] browsable assets)...
+[2022.11.24-04.48.47:339][319]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Plane/Models/Plane_Base.Plane_Base]
+[2022.11.24-04.48.47:339][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Plane/Models/Plane_Base]
+[2022.11.24-04.48.47:339][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Models/Plane_Base" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Autosaves/Game/Plane/Models/Plane_Base_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.11.24-04.48.47:343][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Plane/Models/Plane_Base_Auto1
+[2022.11.24-04.48.47:343][319]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Plane_Base_Auto13AADC42447F182A1E86C60A3E1FF516B.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Autosaves/Game/Plane/Models/Plane_Base_Auto1.uasset'
+[2022.11.24-04.48.47:344][319]LogFileHelpers: Auto-saving content packages took 0.059
+[2022.11.24-04.49.01:733][923]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.24-04.49.01:745][923]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.24-04.49.01:752][923]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.24-04.49.01:762][924]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.24-04.49.08:566][727]LogContentBrowser: Attempting asset rename: NewBlueprint -> Plane
+[2022.11.24-04.49.08:574][727]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.24-04.49.12:352][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Plane/Blueprints/Plane.Plane
+[2022.11.24-04.49.12:353][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-04.49.12:880][133]LogViewport: Scene viewport resized to 1525x869, mode Windowed.
+[2022.11.24-04.49.49:291][880]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2022.11.24-04.49.50:678][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Blueprints/Plane" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/Plane.uasset" SILENT=true
+[2022.11.24-04.49.50:683][ 33]LogSavePackage: Moving output files for package: /Game/Plane/Blueprints/Plane
+[2022.11.24-04.49.50:683][ 33]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Plane00A968E7474784075B1653AE500C19A9.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/Plane.uasset'
+[2022.11.24-04.49.50:697][ 33]AssetCheck: New page: Asset Save: Plane
+[2022.11.24-04.49.50:697][ 33]LogContentValidation: Display: Validating Blueprint /Game/Plane/Blueprints/Plane.Plane
+[2022.11.24-04.49.51:755][157]BlueprintLog: New page: Compile Plane
+[2022.11.24-04.49.51:825][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.24-04.50.35:064][299]BlueprintLog: New page: Compile Plane
+[2022.11.24-04.50.35:126][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.11.24-04.50.59:984][187]LogEditorTransaction: Undo Set Rotation
+[2022.11.24-04.51.59:138][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Blueprints/Plane" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/Plane.uasset" SILENT=true
+[2022.11.24-04.51.59:143][639]LogSavePackage: Moving output files for package: /Game/Plane/Blueprints/Plane
+[2022.11.24-04.51.59:144][639]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Plane454EF7CC4653F4C36A110F95E17CBC2F.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/Plane.uasset'
+[2022.11.24-04.51.59:158][639]AssetCheck: New page: Asset Save: Plane
+[2022.11.24-04.51.59:158][639]LogContentValidation: Display: Validating Blueprint /Game/Plane/Blueprints/Plane.Plane
+[2022.11.24-04.52.03:225][ 91]BlueprintLog: New page: Compile Plane
+[2022.11.24-04.52.03:301][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.24-04.52.08:398][411]BlueprintLog: New page: Compile Plane
+[2022.11.24-04.52.08:459][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.24-04.52.08:904][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Blueprints/Plane" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/Plane.uasset" SILENT=true
+[2022.11.24-04.52.08:908][447]LogSavePackage: Moving output files for package: /Game/Plane/Blueprints/Plane
+[2022.11.24-04.52.08:909][447]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/Plane143EEF6045F9312CD5BF0199ED88613D.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/Plane.uasset'
+[2022.11.24-04.52.08:923][447]AssetCheck: New page: Asset Save: Plane
+[2022.11.24-04.52.08:923][447]LogContentValidation: Display: Validating Blueprint /Game/Plane/Blueprints/Plane.Plane
+[2022.11.24-04.53.31:155][207]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.24-04.53.31:969][297]BlueprintLog: New page: Compile Plane
+[2022.11.24-04.53.32:132][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.24-04.53.44:542][768]BlueprintLog: New page: Compile Plane
+[2022.11.24-04.53.44:606][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.24-04.54.17:790][394]BlueprintLog: New page: Compile Plane
+[2022.11.24-04.54.17:857][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.24-04.54.18:756][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Blueprints/Plane" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/Plane.uasset" SILENT=true
+[2022.11.24-04.54.18:761][490]LogSavePackage: Moving output files for package: /Game/Plane/Blueprints/Plane
+[2022.11.24-04.54.18:761][490]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/PlaneE6889D8F49497701A158F6A9C771A3B0.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/Plane.uasset'
+[2022.11.24-04.54.18:777][490]AssetCheck: New page: Asset Save: Plane
+[2022.11.24-04.54.18:777][490]LogContentValidation: Display: Validating Blueprint /Game/Plane/Blueprints/Plane.Plane
+[2022.11.24-04.54.22:215][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Maps/MainLevel" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.24-04.54.22:260][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.11.24-04.54.22:270][868]LogSavePackage: Moving output files for package: /Game/Plane/Maps/MainLevel
+[2022.11.24-04.54.22:271][868]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/MainLevel726B11D3464F8B35409931A4676146B0.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Maps/MainLevel.umap'
+[2022.11.24-04.54.22:278][868]LogFileHelpers: No new changes to save!
+[2022.11.24-04.54.22:299][868]AssetCheck: New page: Asset Save: MainLevel
+[2022.11.24-04.54.22:299][868]LogContentValidation: Display: Validating World /Game/Plane/Maps/MainLevel.MainLevel
+[2022.11.24-04.54.34:970][ 38]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.24-04.54.40:868][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Blueprints/PlaneGameMode" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/PlaneGameMode.uasset" SILENT=true
+[2022.11.24-04.54.40:871][722]LogSavePackage: Moving output files for package: /Game/Plane/Blueprints/PlaneGameMode
+[2022.11.24-04.54.40:871][722]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/PlaneGameMode4AA5A150452D62C5AD4B48A0922EEAE2.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/PlaneGameMode.uasset'
+[2022.11.24-04.54.40:888][722]AssetCheck: New page: Asset Save: PlaneGameMode
+[2022.11.24-04.54.40:888][722]LogContentValidation: Display: Validating Blueprint /Game/Plane/Blueprints/PlaneGameMode.PlaneGameMode
+[2022.11.24-04.54.41:293][767]BlueprintLog: New page: Compile PlaneGameMode
+[2022.11.24-04.54.41:354][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.24-04.54.41:814][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Plane/Blueprints/PlaneGameMode" FILE="Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/PlaneGameMode.uasset" SILENT=true
+[2022.11.24-04.54.41:816][816]LogSavePackage: Moving output files for package: /Game/Plane/Blueprints/PlaneGameMode
+[2022.11.24-04.54.41:817][816]LogSavePackage: Moving 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Saved/PlaneGameModeB5B7855346922A8D64DFB0BD89AE3C87.tmp' to 'Z:/Game Dev/UE5-Plane-Minigame/PlaneGame/Content/Plane/Blueprints/PlaneGameMode.uasset'
+[2022.11.24-04.54.41:833][816]AssetCheck: New page: Asset Save: PlaneGameMode
+[2022.11.24-04.54.41:833][816]LogContentValidation: Display: Validating Blueprint /Game/Plane/Blueprints/PlaneGameMode.PlaneGameMode
+[2022.11.24-04.54.44:732][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-04.54.44:738][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-04.54.44:739][943]PIE: New page: PIE session: MainLevel (Nov 23, 2022, 4:54:44 PM)
+[2022.11.24-04.54.44:742][943]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.24-04.54.44:742][943]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.24-04.54.44:742][943]LogPlayLevel: Creating play world package: /Game/Plane/Maps/UEDPIE_0_MainLevel
+[2022.11.24-04.54.44:744][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001864s)
+[2022.11.24-04.54.44:744][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Plane/Maps/MainLevel.MainLevel to /Game/Plane/Maps/UEDPIE_0_MainLevel.MainLevel (0.001937s)
+[2022.11.24-04.54.44:744][943]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-04.54.44:744][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-04.54.44:745][943]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.24-04.54.44:746][943]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2022.11.24-04.54.44:787][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.24-04.54.44:788][943]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.24-04.54.44:788][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-04.54.44:788][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-04.54.44:788][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-04.54.44:788][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-04.54.44:788][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-04.54.44:788][943]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-04.54.44:788][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-04.54.44:788][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-04.54.44:788][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-04.54.44:788][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-04.54.44:788][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-04.54.44:791][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-04.54.44:820][943]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-04.54.44:820][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-04.54.44:820][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-04.54.44:820][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-04.54.44:821][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.24-04.54.44:821][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.11.24-04.54.44:822][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.24-04.54.44:822][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.24-04.54.44:822][943]LogInit: FAudioDevice initialized.
+[2022.11.24-04.54.44:824][943]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2022.11.24-04.54.44:838][943]LogLoad: Game class is 'PlaneGameMode_C'
+[2022.11.24-04.54.44:839][943]LogWorld: Bringing World /Game/Plane/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.23-22.54.44
+[2022.11.24-04.54.44:839][943]LogWorld: Bringing up level for play took: 0.000748
+[2022.11.24-04.54.44:841][943]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.11.24-04.54.44:858][943]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.24-04.54.44:859][943]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.24-04.54.44:861][943]PIE: Server logged in
+[2022.11.24-04.54.44:861][943]PIE: Play in editor total start time 0.124 seconds.
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: ================================================
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Total job queries 22, among them cache hits 0 (0.00%)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Tracking 17 distinct input hashes that result in 3 distinct outputs (17.65%)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1587.20 MB (1.55 GB) budget. Usage: 0.00%
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Shaders Compiled: 8
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Jobs assigned 22, completed 17 (77.27%)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Average time worker was idle: 439.63 s
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Time job spent in pending queue: average 0.31 s, longest 1.72 s
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Job execution time: average 1.53 s, max 2.11 s
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Job life time (pending + execution): average 1.90 s, max 2.64
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.42 s
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Average processing rate: 2.65 jobs/sec
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Effective parallelization: 3.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.52 sec, max 1.65 sec, min 1.17 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.45 sec, max 1.58 sec, min 1.09 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 1.25 sec, max 1.53 sec, min 0.83 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.45 sec, max 0.49 sec, min 0.43 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.32% of total time (compiled    4 times, average 1.52 sec, max 1.65 sec, min 1.17 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.02% of total time (compiled    4 times, average 1.45 sec, max 1.58 sec, min 1.09 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.08% of total time (compiled    4 times, average 1.25 sec, max 1.53 sec, min 0.83 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.02% of total time (compiled    4 times, average 0.45 sec, max 0.49 sec, min 0.43 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 6.56% of total time (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2022.11.24-04.54.46:588][998]LogShaderCompilers: Display: ================================================
+[2022.11.24-04.54.48:765][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-04.54.48:765][238]LogWorld: BeginTearingDown for /Game/Plane/Maps/UEDPIE_0_MainLevel
+[2022.11.24-04.54.48:765][238]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-04.54.48:765][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-04.54.48:776][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-04.54.48:784][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-04.54.48:827][238]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-04.54.48:827][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.24-04.54.48:829][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.24-04.54.48:833][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-04.54.48:861][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.11.24-04.54.48:896][239]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.11.24-04.54.49:743][329]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.24-04.54.49:748][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.24-04.54.49:748][329]PIE: New page: PIE session: MainLevel (Nov 23, 2022, 4:54:49 PM)
+[2022.11.24-04.54.49:775][329]LogPlayLevel: Creating play world package: /Game/Plane/Maps/UEDPIE_0_MainLevel
+[2022.11.24-04.54.49:777][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001827s)
+[2022.11.24-04.54.49:777][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Plane/Maps/MainLevel.MainLevel to /Game/Plane/Maps/UEDPIE_0_MainLevel.MainLevel (0.001925s)
+[2022.11.24-04.54.49:777][329]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.24-04.54.49:777][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.24-04.54.49:777][329]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.24-04.54.49:777][329]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2022.11.24-04.54.49:828][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.11.24-04.54.49:831][329]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.24-04.54.49:831][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.24-04.54.49:831][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.24-04.54.49:831][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.24-04.54.49:831][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.24-04.54.49:831][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.24-04.54.49:831][329]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.24-04.54.49:831][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.24-04.54.49:831][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.24-04.54.49:831][329]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.24-04.54.49:831][329]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.24-04.54.49:831][329]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.24-04.54.49:835][329]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.24-04.54.49:863][329]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G733 Gaming Headset)
+[2022.11.24-04.54.49:863][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.24-04.54.49:863][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.24-04.54.49:863][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.24-04.54.49:864][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.24-04.54.49:864][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2022.11.24-04.54.49:866][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.24-04.54.49:866][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.24-04.54.49:866][329]LogInit: FAudioDevice initialized.
+[2022.11.24-04.54.49:866][329]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2022.11.24-04.54.49:879][329]LogLoad: Game class is 'PlaneGameMode_C'
+[2022.11.24-04.54.49:880][329]LogWorld: Bringing World /Game/Plane/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.23-22.54.49
+[2022.11.24-04.54.49:880][329]LogWorld: Bringing up level for play took: 0.000523
+[2022.11.24-04.54.49:882][329]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.11.24-04.54.49:883][329]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.24-04.54.49:883][329]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.24-04.54.49:883][329]PIE: Server logged in
+[2022.11.24-04.54.49:884][329]PIE: Play in editor total start time 0.136 seconds.
+[2022.11.24-04.54.52:926][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-04.54.52:926][663]LogWorld: BeginTearingDown for /Game/Plane/Maps/UEDPIE_0_MainLevel
+[2022.11.24-04.54.52:926][663]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.24-04.54.52:926][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-04.54.52:937][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.24-04.54.52:944][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.24-04.54.52:988][663]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.24-04.54.52:989][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.24-04.54.52:990][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.24-04.54.52:995][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.24-04.54.52:998][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.11.24-04.54.53:041][664]LogPlayLevel: Display: Destroying online subsystem :Context_7
